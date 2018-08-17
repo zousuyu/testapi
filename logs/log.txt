@@ -1,0 +1,68 @@
+2018-08-04 22:03:48,769 log.py[line: 60] INFO: info
+2018-08-04 22:04:42,803 log.py[line: 61] INFO: info
+2018-08-04 22:04:42,803 log.py[line: 62] WARNING: warning
+2018-08-04 22:04:42,803 log.py[line: 63] ERROR: error
+2018-08-04 22:04:42,803 log.py[line: 64] CRITICAL: critical
+2018-08-04 22:12:57,077 TestRequest.py[line: 31] INFO: testvote1-1
+2018-08-04 22:12:57,078 TestRequest.py[line: 32] INFO: 通过
+2018-08-04 22:12:57,078 TestRequest.py[line: 33] INFO: 实际返回结果：{'status': '200', 'message': 'success'}
+2018-08-04 22:12:57,135 TestRequest.py[line: 31] INFO: testvote1-1
+2018-08-04 22:12:57,136 TestRequest.py[line: 32] INFO: 通过
+2018-08-04 22:12:57,136 TestRequest.py[line: 33] INFO: 实际返回结果：{'status': '10022', 'message': 'The problem is not the choice id'}
+2018-08-04 22:12:57,145 TestRequest.py[line: 69] INFO: testpolls1-1
+2018-08-04 22:12:57,146 TestRequest.py[line: 70] INFO: 通过
+2018-08-04 22:12:57,147 TestRequest.py[line: 71] INFO: 实际返回结果：{'status': '200', 'message': 'sucess', 'data': {'1': '生化危机', '2': '吃鸡', '3': '魔兽'}}
+2018-08-04 22:12:57,422 TestRequest.py[line: 69] INFO: testdemo1-1
+2018-08-04 22:12:57,423 TestRequest.py[line: 70] INFO: 通过
+2018-08-04 22:12:57,423 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 202, 'msg': '用户已注册！', 'data': None}
+2018-08-04 22:12:57,663 TestRequest.py[line: 69] INFO: testdemo1-2
+2018-08-04 22:12:57,663 TestRequest.py[line: 70] INFO: 通过
+2018-08-04 22:12:57,663 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-08-04 22:12:57,898 TestRequest.py[line: 69] INFO: testdemo1-2
+2018-08-04 22:12:57,899 TestRequest.py[line: 70] INFO: 通过
+2018-08-04 22:12:57,899 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-08-04 22:14:29,220 TestRequest.py[line: 69] INFO: testdemo1-1
+2018-08-04 22:14:29,220 TestRequest.py[line: 70] INFO: 通过
+2018-08-04 22:14:29,220 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 202, 'msg': '用户已注册！', 'data': None}
+2018-08-04 22:14:29,435 TestRequest.py[line: 31] INFO: testvote1-1
+2018-08-04 22:14:29,436 TestRequest.py[line: 32] INFO: 通过
+2018-08-04 22:14:29,436 TestRequest.py[line: 33] INFO: 实际返回结果：{'status': '200', 'message': 'success'}
+2018-08-04 22:14:29,450 TestRequest.py[line: 31] INFO: testvote1-1
+2018-08-04 22:14:29,450 TestRequest.py[line: 32] INFO: 通过
+2018-08-04 22:14:29,453 TestRequest.py[line: 33] INFO: 实际返回结果：{'status': '10022', 'message': 'The problem is not the choice id'}
+2018-08-04 22:14:29,465 TestRequest.py[line: 69] INFO: testpolls1-1
+2018-08-04 22:14:29,465 TestRequest.py[line: 70] INFO: 通过
+2018-08-04 22:14:29,465 TestRequest.py[line: 71] INFO: 实际返回结果：{'status': '200', 'message': 'sucess', 'data': {'1': '生化危机', '2': '吃鸡', '3': '魔兽'}}
+2018-08-04 22:14:29,483 TestRequest.py[line: 69] INFO: testdemo1-2
+2018-08-04 22:14:29,483 TestRequest.py[line: 70] INFO: 通过
+2018-08-04 22:14:29,483 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-08-04 22:14:29,738 TestRequest.py[line: 69] INFO: testdemo1-2
+2018-08-04 22:14:29,738 TestRequest.py[line: 70] INFO: 通过
+2018-08-04 22:14:29,738 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-08-11 14:57:32,773 TestRequest.py[line: 31] INFO: testvote1-1
+2018-08-11 14:57:32,800 TestRequest.py[line: 32] INFO: 通过
+2018-08-11 14:57:32,801 TestRequest.py[line: 33] INFO: 实际返回结果：{'status': '200', 'message': 'success'}
+2018-08-11 14:57:32,921 TestRequest.py[line: 31] INFO: testvote1-1
+2018-08-11 14:57:32,921 TestRequest.py[line: 32] INFO: 通过
+2018-08-11 14:57:32,921 TestRequest.py[line: 33] INFO: 实际返回结果：{'status': '10022', 'message': 'The problem is not the choice id'}
+2018-08-11 14:57:32,935 TestRequest.py[line: 83] ERROR: testpolls1-1
+2018-08-11 14:57:32,935 TestRequest.py[line: 84] ERROR: 失败
+2018-08-11 14:57:32,937 TestRequest.py[line: 85] ERROR: 实际返回结果：{'status': '200', 'message': 'sucess', 'data': {'1': 'python'}}
+2018-08-11 14:57:33,290 TestRequest.py[line: 69] INFO: testdemo1-1
+2018-08-11 14:57:33,290 TestRequest.py[line: 70] INFO: 通过
+2018-08-11 14:57:33,290 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 202, 'msg': '用户已注册！', 'data': None}
+2018-08-11 14:57:33,535 TestRequest.py[line: 69] INFO: testdemo1-2
+2018-08-11 14:57:33,535 TestRequest.py[line: 70] INFO: 通过
+2018-08-11 14:57:33,535 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-08-11 14:57:33,773 TestRequest.py[line: 69] INFO: testdemo1-2
+2018-08-11 14:57:33,775 TestRequest.py[line: 70] INFO: 通过
+2018-08-11 14:57:33,775 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-08-11 21:44:24,564 TestRequest.py[line: 69] INFO: testdemo1-1
+2018-08-11 21:44:24,588 TestRequest.py[line: 70] INFO: 通过
+2018-08-11 21:44:24,588 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 202, 'msg': '用户已注册！', 'data': None}
+2018-08-11 21:44:24,871 TestRequest.py[line: 69] INFO: testdemo1-2
+2018-08-11 21:44:24,872 TestRequest.py[line: 70] INFO: 通过
+2018-08-11 21:44:24,872 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-08-11 21:44:25,144 TestRequest.py[line: 69] INFO: testdemo1-2
+2018-08-11 21:44:25,144 TestRequest.py[line: 70] INFO: 通过
+2018-08-11 21:44:25,144 TestRequest.py[line: 71] INFO: 实际返回结果：{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}

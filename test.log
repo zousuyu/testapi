@@ -1,0 +1,10 @@
+2018-08-04 21:48:01,683 logtest.py[line:33] DEBUG debug
+2018-08-04 21:48:01,684 logtest.py[line:34] INFO info
+2018-08-04 21:48:01,684 logtest.py[line:35] WARNING warning
+2018-08-04 21:48:01,684 logtest.py[line:36] ERROR error
+2018-08-04 21:48:01,684 logtest.py[line:37] CRITICAL critical
+2018-08-04 21:48:49,468 logtest.py[line:33] DEBUG debug
+2018-08-04 21:48:49,468 logtest.py[line:34] INFO info
+2018-08-04 21:48:49,468 logtest.py[line:35] WARNING warning
+2018-08-04 21:48:49,468 logtest.py[line:36] ERROR error
+2018-08-04 21:48:49,468 logtest.py[line:37] CRITICAL critical
